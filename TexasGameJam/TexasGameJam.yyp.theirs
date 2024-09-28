@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,11 +35,11 @@
   "name":"TexasGameJam",
   "resources":[
     {"id":{"name":"obj_Character","path":"objects/obj_Character/obj_Character.yy",},},
+    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_player_one","path":"objects/obj_player_one/obj_player_one.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_environment","path":"sprites/spr_environment/spr_environment.yy",},},
+    {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
     {"id":{"name":"spr_player_one","path":"sprites/spr_player_one/spr_player_one.yy",},},
-    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

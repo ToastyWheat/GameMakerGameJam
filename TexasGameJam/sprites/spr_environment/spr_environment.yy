@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_environment",
   "bboxMode":0,
-  "bbox_bottom":123,
+  "bbox_bottom":144,
   "bbox_left":0,
   "bbox_right":223,
   "bbox_top":0,
