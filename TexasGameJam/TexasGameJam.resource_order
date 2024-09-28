@@ -17,6 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_hitbox","order":2,"path":"objects/obj_hitbox/obj_hitbox.yy",},
     {"name":"obj_player_one","order":1,"path":"objects/obj_player_one/obj_player_one.yy",},
+    {"name":"spr_hitbox","order":2,"path":"sprites/spr_hitbox/spr_hitbox.yy",},
+    {"name":"spr_player_one","order":1,"path":"sprites/spr_player_one/spr_player_one.yy",},
   ],
 }

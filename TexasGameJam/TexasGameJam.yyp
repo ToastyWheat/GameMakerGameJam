@@ -35,9 +35,11 @@
   "name":"TexasGameJam",
   "resources":[
     {"id":{"name":"obj_Character","path":"objects/obj_Character/obj_Character.yy",},},
+    {"id":{"name":"obj_hitbox","path":"objects/obj_hitbox/obj_hitbox.yy",},},
     {"id":{"name":"obj_player_one","path":"objects/obj_player_one/obj_player_one.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_environment","path":"sprites/spr_environment/spr_environment.yy",},},
+    {"id":{"name":"spr_hitbox","path":"sprites/spr_hitbox/spr_hitbox.yy",},},
     {"id":{"name":"spr_player_one","path":"sprites/spr_player_one/spr_player_one.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
