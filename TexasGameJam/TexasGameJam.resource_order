@@ -14,8 +14,8 @@
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Characters","order":6,"path":"folders/Sprites/Characters.yy",},
-    {"name":"Player Two","order":3,"path":"folders/Sprites/Characters/Player Two.yy",},
     {"name":"Player One","order":2,"path":"folders/Sprites/Characters/Player One.yy",},
+    {"name":"Player Two","order":3,"path":"folders/Sprites/Characters/Player Two.yy",},
     {"name":"Tile Sprites","order":5,"path":"folders/Sprites/Tile Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
@@ -27,6 +27,7 @@
     {"name":"spr_environment","order":1,"path":"sprites/spr_environment/spr_environment.yy",},
     {"name":"spr_hitbox","order":2,"path":"sprites/spr_hitbox/spr_hitbox.yy",},
     {"name":"spr_p1_walk","order":1,"path":"sprites/spr_p1_walk/spr_p1_walk.yy",},
+    {"name":"spr_p2_walk","order":2,"path":"sprites/spr_p2_walk/spr_p2_walk.yy",},
     {"name":"til_lab","order":1,"path":"tilesets/til_lab/til_lab.yy",},
   ],
 }
