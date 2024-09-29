@@ -6,3 +6,9 @@ move_x = 0;
 move_y = 0;
 
 acel = 0;
+
+//Tiles are collisions
+tilemap_collision = layer_tilemap_get_id("collision_tiles");
+
+
+
