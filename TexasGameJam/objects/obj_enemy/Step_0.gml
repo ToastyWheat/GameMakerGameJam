@@ -3,7 +3,7 @@
 if (place_meeting(x, y+2, tilemap_collision))
 {
 	move_y = 0;
-	if (keyboard_check(vk_space)) move_y = -jump_speed;
+	if (sec = 0) move_y = -jump_speed;
 }
 else if (move_y < 10) move_y += 2;
 
@@ -16,6 +16,6 @@ if (move_x != 0) image_xscale = sign(move_x);
 if(sec = 0)
 {
 	move_x = choose(-1,1);
-	sec = 2;
-	alarm[0] = 2;
+	sec = choose(2,5);
+	alarm[0] = choose(1,5);
 }
