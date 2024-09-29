@@ -14,3 +14,9 @@ else if (move_y < 10) move_y += 1;
 move_and_collide(move_x, move_y, tilemap_collision);
 
 if (move_x != 0) image_xscale = sign(move_x);
+
+//sprite index for walking
+if (move_x != 0) 
+sprite_index = spr_p1_walk;
+else 
+sprite_index = spr_player_one;
