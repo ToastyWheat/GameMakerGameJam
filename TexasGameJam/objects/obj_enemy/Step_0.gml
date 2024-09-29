@@ -1,3 +1,6 @@
+move_x = choose(1, -1);
+move_x *= move_speed;
+
 //Jump Physics
 if (place_meeting(x, y+2, tilemap_collision))
 {
