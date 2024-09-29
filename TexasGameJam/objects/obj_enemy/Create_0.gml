@@ -15,3 +15,11 @@ health = 1;
 
 
 
+//enemy timer
+//setting up times
+sec = 2;
+milsec = 0;
+
+//Start timer
+alarm[0] = 2;
+
