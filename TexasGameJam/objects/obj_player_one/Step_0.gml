@@ -25,5 +25,14 @@ sprite_index = spr_player_one;
 if place_meeting(x,y,obj_enemy)
 {
 	instance_change(obj_p1_death, true);
-	
+}
+else if place_meeting(x,y,obj_hitbox)
+{
+	instance_change(obj_p1_death, true);
+}
+
+if place_meeting(x,y,obj_winbox)
+{
+	instance_destroy(Room1);
+	room_goto(Win);
 }
