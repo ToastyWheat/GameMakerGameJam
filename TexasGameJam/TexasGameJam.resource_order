@@ -24,6 +24,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_button_end","order":6,"path":"objects/obj_button_end/obj_button_end.yy",},
+    {"name":"obj_button_music","order":4,"path":"objects/obj_button_music/obj_button_music.yy",},
     {"name":"obj_button_parent","order":1,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"obj_button_play_1","order":1,"path":"objects/obj_button_play_1/obj_button_play_1.yy",},
     {"name":"obj_button_play","order":2,"path":"objects/obj_button_play/obj_button_play.yy",},
@@ -36,6 +37,7 @@
     {"name":"obj_timer","order":6,"path":"objects/obj_timer/obj_timer.yy",},
     {"name":"obj_win_hitbox","order":8,"path":"objects/obj_win_hitbox/obj_win_hitbox.yy",},
     {"name":"obj_winbox","order":9,"path":"objects/obj_winbox/obj_winbox.yy",},
+    {"name":"Object16","order":5,"path":"objects/Object16/Object16.yy",},
     {"name":"room_gameover","order":4,"path":"rooms/room_gameover/room_gameover.yy",},
     {"name":"story2","order":2,"path":"rooms/story2/story2.yy",},
     {"name":"story3","order":3,"path":"rooms/story3/story3.yy",},

@@ -43,6 +43,7 @@
   "resources":[
     {"id":{"name":"fon_menu","path":"fonts/fon_menu/fon_menu.yy",},},
     {"id":{"name":"obj_button_end","path":"objects/obj_button_end/obj_button_end.yy",},},
+    {"id":{"name":"obj_button_music","path":"objects/obj_button_music/obj_button_music.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play_1","path":"objects/obj_button_play_1/obj_button_play_1.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
@@ -56,6 +57,7 @@
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"obj_win_hitbox","path":"objects/obj_win_hitbox/obj_win_hitbox.yy",},},
     {"id":{"name":"obj_winbox","path":"objects/obj_winbox/obj_winbox.yy",},},
+    {"id":{"name":"Object16","path":"objects/Object16/Object16.yy",},},
     {"id":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
     {"id":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -63,6 +65,7 @@
     {"id":{"name":"story2","path":"rooms/story2/story2.yy",},},
     {"id":{"name":"story3","path":"rooms/story3/story3.yy",},},
     {"id":{"name":"Win","path":"rooms/Win/Win.yy",},},
+    {"id":{"name":"sou_music","path":"sounds/sou_music/sou_music.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},

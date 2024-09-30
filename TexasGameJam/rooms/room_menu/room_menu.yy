@@ -6,13 +6,13 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_52CE88F","path":"rooms/room_menu/room_menu.yy",},
+    {"name":"inst_430DE1BD","path":"rooms/room_menu/room_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_52CE88F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52CE88F","objectId":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.5,"scaleY":-1.0,"x":704.0,"y":384.0,},
-      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
+        {"$GMRInstance":"v1","%Name":"inst_430DE1BD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_430DE1BD","objectId":{"name":"obj_button_music","path":"objects/obj_button_music/obj_button_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0,"scaleY":1.0,"x":672.0,"y":256.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"room_menu",
